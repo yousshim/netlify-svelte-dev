@@ -9,7 +9,7 @@
     Hello <span id="name"></span>
   </body>
   <script>
-    fetch("http://localhost:8888/api/hello")
+    fetch("https://svelte-netlify-dev.netlify.app/api/hello")
       .then((res) => res.json())
       .then(({ name }) => {
         document.getElementById("name").innerText = name;

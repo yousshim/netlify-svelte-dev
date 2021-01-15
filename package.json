@@ -1,6 +1,10 @@
 {
   "name": "netlify-dev-svelte",
   "version": "1.0.0",
+  "scripts": {
+    "build": "",
+    "dev": ""
+  },
   "main": "index.js",
   "repository": "git@github.com:yousshim/netlify-svelte-dev.git",
   "author": "yousef ibrahim <yousef98ibrahim@gmail.com>",
