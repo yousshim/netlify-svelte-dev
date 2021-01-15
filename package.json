@@ -1,21 +1,11 @@
 {
   "name": "netlify-dev-svelte",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "build": "",
-    "dev": ""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yousshim/netlify-svelte-dev.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yousshim/netlify-svelte-dev/issues"
-  },
-  "homepage": "https://github.com/yousshim/netlify-svelte-dev#readme"
+  "repository": "git@github.com:yousshim/netlify-svelte-dev.git",
+  "author": "yousef ibrahim <yousef98ibrahim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
 }
